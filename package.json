@@ -1,20 +1,33 @@
 {
-  "name": "next-tailwind-ecommerce",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "12.3.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
-  "devDependencies": {
-    "eslint": "8.24.0",
-    "eslint-config-next": "12.3.1"
-  }
+    "name": "next-tailwind-ecommerce",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@stripe/stripe-js": "^1.38.1",
+        "js-cookie": "^3.0.1",
+        "next": "12.3.1",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-hot-toast": "^2.4.0",
+        "react-icons": "^4.4.0",
+        "sharp": "^0.31.1",
+        "stripe": "^10.13.0"
+    },
+    "devDependencies": {
+        "@tailwindcss/aspect-ratio": "^0.4.2",
+        "@types/node": "17.0.35",
+        "@types/react": "18.0.9",
+        "@types/react-dom": "18.0.5",
+        "autoprefixer": "^10.4.7",
+        "eslint": "^8.25.0",
+        "postcss": "^8.4.14",
+        "tailwindcss": "^3.1.2",
+        "typescript": "4.7.2"
+    }
 }

@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Screenshots
+
+![NextJS TailwindCSS Ecommerce Home](/nextjs-tw-commerce%20image/nextjs-tailwindcss-ecommerce-shop-home.png)
+
+![NextJS TailwindCSS Ecommerce Detail](/nextjs-tw-commerce%20image/nextjs-tailwindcss-ecommerce-detail.png)
+
+![NextJS TailwindCSS Ecommerce Detail Add To Cart](/nextjs-tw-commerce%20image/nextjs-tailwindcss-ecommerce-detail-add.png)
+
+![NextJS TailwindCSS Ecommerce Cart](/nextjs-tw-commerce%20image/nextjs-tailwindcss-ecommerce-cart.png)
+
+![NextJS TailwindCSS Ecommerce Strip Checkout](/nextjs-tw-commerce%20image/nextjs-tailwindcss-ecommerce-checkout.png)
+
 ## Getting Started
 
 First, run the development server:
